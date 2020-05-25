@@ -1,0 +1,1 @@
+08 18 * * * root /home/pi/gpio22off.sh 2>&1 ; mail -e -s Apagado proyectosoii2020@gmail.com

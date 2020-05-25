@@ -1,0 +1,1 @@
+06 18 * * * root /home/pi/gpio27on.sh 2>&1 ; mail -e -s Encendido proyectosoii2020@gmail.com
